@@ -1,4 +1,4 @@
-This was a tewst I did to see how to use the React Router. Eventually this work became "bread-browser".
+This was a test I did to see how to use the React Router. Eventually this work became "breed-browser".
 
 ## Create React App
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
