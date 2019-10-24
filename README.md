@@ -1,3 +1,6 @@
+This was a tewst I did to see how to use the React Router. Eventually this work became "bread-browser".
+
+## Create React App
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
